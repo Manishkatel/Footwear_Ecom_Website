@@ -1,7 +1,7 @@
 # 👟 Footwear E-commerce Site
 
 A full-stack e-commerce web application for selling footwear online.  
-Built with React (Frontend) and Django (Backend). Includes secure user authentication, product listings, search, cart, order history, and admin controls.
+Built with React (Frontend) and Django Rest Framework (Backend). Includes secure user authentication, product listings, search, cart, order history, and admin controls.
 
 ---
 
